@@ -26,6 +26,7 @@ public class EnderiteUpgradeSmithingTemplateItem {
     private static final Identifier EMPTY_SLOT_AXE_TEXTURE = new Identifier("item/empty_slot_axe");
     private static final Identifier EMPTY_SLOT_SHOVEL_TEXTURE = new Identifier("item/empty_slot_shovel");
     private static final Identifier EMPTY_SLOT_HOE_TEXTURE = new Identifier("item/empty_slot_hoe");
+    private static final Identifier EMPTY_SLOT_INGOT_TEXTURE = new Identifier("item/empty_slot_ingot");
 
     public static final SmithingTemplateItem ENDERITE_UPGRADE_SMITHING_TEMPLATE = createTemplate();
 
@@ -41,7 +42,7 @@ public class EnderiteUpgradeSmithingTemplateItem {
                 ENDERITE_BASE_SLOT_DESCRIPTION_TEXT,
                 ENDERITE_ADDITIONS_SLOT_DESCRIPTION_TEXT,
                 getUpgradeEmptyBaseSlotTextures(),
-                getUpgradeEmptyBaseSlotTextures()
+                getUpgradeEmptyAdditionsSlotTextures()
         );
     }
 
@@ -56,6 +57,12 @@ public class EnderiteUpgradeSmithingTemplateItem {
                 EMPTY_SLOT_AXE_TEXTURE,
                 EMPTY_SLOT_SHOVEL_TEXTURE,
                 EMPTY_SLOT_HOE_TEXTURE
+        );
+    }
+
+    public static List<Identifier> getUpgradeEmptyAdditionsSlotTextures() {
+        return List.of(
+                EMPTY_SLOT_INGOT_TEXTURE
         );
     }
 }

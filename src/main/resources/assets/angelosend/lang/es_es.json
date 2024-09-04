@@ -20,9 +20,9 @@
   "block.angelosend.raw_enderite_block": "Bloque de Enderita en Bruto",
 
   "item.angelosend.enderite_upgrade_smithing_template": "Enderite Upgrade Smithing Template",
-  "text.angelosend.title": "Enderite Upgrade",
-  "text.angelosend.applies_to": "Netherite Equipment",
-  "text.angelosend.ingredients": "Enderite Ingot",
-  "text.angelosend.base_slot_description": "Add netherite armor, weapon, or tool",
-  "text.angelosend.additions_slot_description": "Add netherite armor, weapon, or tool"
+  "text.angelosend.title": "Mejora de Enderita",
+  "text.angelosend.applies_to": "Equipamiento de Netherita",
+  "text.angelosend.ingredients": "Lingote de Enderita",
+  "text.angelosend.base_slot_description": "Añade una Armadura, Arma o Herramienta de Netherita",
+  "text.angelosend.additions_slot_description": "Añade un lingote de Enderita"
 }
