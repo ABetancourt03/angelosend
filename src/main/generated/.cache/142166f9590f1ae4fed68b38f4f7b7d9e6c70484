@@ -1,15 +1,15 @@
-// 1.20.1	2024-09-03T23:06:45.3610401	Angelo's End/Model Definitions
-1840bfaf9ffd37898f11c5e5bee702cdc1615779 assets\angelosend\models\block\enderite_ore.json
+// 1.20.1	2024-09-04T10:09:04.8933929	Angelo's End/Model Definitions
 c479919f9e4540156cbb84bd1e7d98d4c257cafd assets\angelosend\models\item\enderite_axe.json
+1840bfaf9ffd37898f11c5e5bee702cdc1615779 assets\angelosend\models\block\enderite_ore.json
 7602356a06552db194973d1078205af6b33b3eb7 assets\angelosend\models\item\enderite_hoe.json
 0a6595394b420371fbe2eef07663bda8562f97bd assets\angelosend\models\item\enderite_ore.json
 e101d57872f5263d219d9d2b8879ad55f8e036ed assets\angelosend\models\item\enderite_leggings.json
 8ca6648df62129adf633cd9233859a46992d84ed assets\angelosend\models\item\enderite_ingot.json
 9fbc6739daf05dfda3c471d8c6180958940b26e3 assets\angelosend\models\item\enderite_block.json
-273775832fb246d697f6f2c8ab82dc29fc78e2b5 assets\angelosend\models\block\enderite_block.json
 f90d1e08c475fa08b0a79ce07bbfa8989a0f5c3a assets\angelosend\models\item\enderite_sword.json
-3f077c078ced59586c7b638ad1861c855ca71cab assets\angelosend\models\block\raw_enderite_block.json
+273775832fb246d697f6f2c8ab82dc29fc78e2b5 assets\angelosend\models\block\enderite_block.json
 4c6f806b1bb3609e5069cd3b971eeae3a878b641 assets\angelosend\models\item\enderite_chestplate.json
+3f077c078ced59586c7b638ad1861c855ca71cab assets\angelosend\models\block\raw_enderite_block.json
 7b67bcdb5396c6d53ef17f98f96889284511dd0f assets\angelosend\models\item\enderite_helmet.json
 1dab713c1ca4a8b806f3177469560255958ab42a assets\angelosend\models\item\raw_enderite_block.json
 91dae92139237cef6709d430fbd9316a03d6fb6b assets\angelosend\models\item\enderite_boots.json

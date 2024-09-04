@@ -4,6 +4,7 @@ import com.abetancourt03.angelosend.block.ModBlocks;
 import com.abetancourt03.angelosend.item.EnderiteUpgradeSmithingTemplateItem;
 import com.abetancourt03.angelosend.item.ModItemGroups;
 import com.abetancourt03.angelosend.item.ModItems;
+import com.abetancourt03.angelosend.util.ModLootTableModifiers;
 import com.abetancourt03.angelosend.world.gen.ModWorldGeneration;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.util.Identifier;
@@ -21,6 +22,7 @@ public class AngelosEnd implements ModInitializer {
 		ModItemGroups.registerItemGroups();
 		EnderiteUpgradeSmithingTemplateItem.register();
 		ModWorldGeneration.generateModWorldGen();
+		ModLootTableModifiers.modifyLootTables();
 	}
 
 	public static Identifier id(String path) {
