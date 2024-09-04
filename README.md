@@ -1,5 +1,5 @@
 > # Angelo's End is a mod that adds a new ore in The End!
-> - This is an alpha version, mod may change soon..
+> - This is a beta, mod may change soon..
 
 > ## Downloading the mod!
 > - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/angelosend)
