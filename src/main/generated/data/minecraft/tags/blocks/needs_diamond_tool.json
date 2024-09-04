@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "angelosend:enderite_block",
+    "angelosend:raw_enderite_block",
+    "angelosend:enderite_ore"
+  ]
+}

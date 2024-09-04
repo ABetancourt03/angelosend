@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "angelosend:raw_enderite_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "angelosend:raw_enderite"
+  }
+}

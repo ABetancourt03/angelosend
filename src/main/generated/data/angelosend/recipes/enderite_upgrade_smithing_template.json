@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "angelosend:enderite_ingot"
+    },
+    "E": {
+      "item": "minecraft:end_stone"
+    },
+    "S": {
+      "item": "angelosend:enderite_upgrade_smithing_template"
+    }
+  },
+  "pattern": [
+    "#S#",
+    "#E#",
+    "###"
+  ],
+  "result": {
+    "count": 2,
+    "item": "angelosend:enderite_upgrade_smithing_template"
+  },
+  "show_notification": true
+}

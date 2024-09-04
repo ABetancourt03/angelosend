@@ -1,0 +1,28 @@
+{
+  "item.angelosend.enderite_ingot": "Enderite Ingot",
+  "item.angelosend.raw_enderite": "Raw Enderite",
+  "item.angelosend.enderite_scrap": "Enderite Scrap",
+  "item.angelosend.enderite_pickaxe": "Enderite Pickaxe",
+  "item.angelosend.enderite_sword": "Enderite Sword",
+  "item.angelosend.enderite_axe": "Enderite Axe",
+  "item.angelosend.enderite_shovel": "Enderite Shovel",
+  "item.angelosend.enderite_hoe": "Enderite Hoe",
+  "item.angelosend.enderite_helmet": "Enderite Helmet",
+  "item.angelosend.enderite_chestplate": "Enderite Chestplate",
+  "item.angelosend.enderite_leggings": "Enderite Leggings",
+  "item.angelosend.enderite_boots": "Enderite Boots",
+  "itemgroup.angelosend.enderite_blocks": "Enderite Blocks",
+  "itemgroup.angelosend.enderite_items": "Enderite Items",
+  "itemgroup.angelosend.enderite_tools": "Enderite Tools",
+  "itemgroup.angelosend.enderite_equipment": "Enderite Equipment",
+  "block.angelosend.enderite_ore": "Enderite Ore",
+  "block.angelosend.enderite_block": "Block of Enderite",
+  "block.angelosend.raw_enderite_block": "Block of Raw Enderite",
+
+  "item.angelosend.enderite_upgrade_smithing_template": "Enderite Upgrade Smithing Template",
+  "text.angelosend.title": "Enderite Upgrade",
+  "text.angelosend.applies_to": "Netherite Equipment",
+  "text.angelosend.ingredients": "Enderite Ingot",
+  "text.angelosend.base_slot_description": "Add netherite armor, weapon, or tool",
+  "text.angelosend.additions_slot_description": "Add netherite armor, weapon, or tool"
+}

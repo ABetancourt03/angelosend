@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "group": "enderite",
+  "ingredient": {
+    "item": "angelosend:enderite_ore"
+  },
+  "result": "angelosend:enderite_scrap"
+}

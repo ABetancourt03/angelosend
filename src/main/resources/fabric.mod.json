@@ -1,0 +1,48 @@
+{
+	"schemaVersion": 1,
+	"id": "angelosend",
+	"version": "${version}",
+	"name": "Angelo's End",
+	"description": "A little update to the End, new tools, armor and more soon...",
+	"authors": [
+		"ABetancourt03"
+	],
+	"contact": {
+		"sources": "https://github.com/abetancourt03/angelosend"
+	},
+	"custom": {
+		"modmenu": {
+			"links": {
+				"modmenu.github_releases": "https://github.com/ABetancourt03/angelosend/releases",
+				"modmenu.modrinth": "https://modrinth.com/mod/angelosend",
+				"modmenu.curseforge": "https://www.curseforge.com/minecraft/mc-mods/angelosend"
+			}
+		}
+	},
+	"license": "MIT",
+	"icon": "assets/angelosend/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.abetancourt03.angelosend.AngelosEnd"
+		],
+		"client": [
+			"com.abetancourt03.angelosend.AngelosEndClient"
+		],
+		"fabric-datagen": [
+			"com.abetancourt03.angelosend.AngelosEndDataGenerator"
+		]
+	},
+	"mixins": [
+		"angelosend.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.3",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
