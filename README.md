@@ -42,6 +42,11 @@
 >
 > ![](https://media.forgecdn.net/attachments/description/1092809/description_e33dd653-9ba7-453a-96d6-1b8ebbaf99ba.png)
 
+## Enderite Upgrade Generation
+> You can find them at The End City chests.
+>
+> ![](https://cdn.modrinth.com/data/cached_images/a3c9194546f6686d522b89c95608d9fd2982b790.png)
+
 ## Upgrading Netherite Tools to Enderite
 > - Enderite Sword
 >
