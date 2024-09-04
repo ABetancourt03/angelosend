@@ -2,8 +2,8 @@
 > - This is an alpha version, mod may change soon..
 
 > ## Downloading the mod!
-> - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/angelos-end)
-> - [Modrinth](https://modrinth.com/mod/angelos-end)
+> - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/angelosend)
+> - [Modrinth](https://modrinth.com/mod/angelosend)
 
 ## Ore Generation
 > It generates between y20 and y35 at The End Islands.
