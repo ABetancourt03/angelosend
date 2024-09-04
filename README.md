@@ -7,6 +7,8 @@
 
 ## Ore Generation
 > It generates between y20 and y35 at The End Islands.
+>
+> ![Ore Generation](https://cdn.modrinth.com/data/bwbjkCOh/images/b870d79dd7ad141b2220c0d7aa13867d74ef50d1.png)
 
 ## Enderite Scrap
 > You can smelt Raw Enderite in a furnace or a blast furnace to get Enderite Scrap.
