@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:netherite_pickaxe"
+  },
+  "addition": {
+    "item": "angelosend:enderite_ingot"
+  },
+  "template": {
+    "item": "angelosend:enderite_upgrade_smithing_template"
+  },
+  "result": {
+    "id": "angelosend:enderite_pickaxe",
+    "count": 1
+  }
+}

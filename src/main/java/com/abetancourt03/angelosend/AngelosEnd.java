@@ -1,7 +1,6 @@
 package com.abetancourt03.angelosend;
 
 import com.abetancourt03.angelosend.block.ModBlocks;
-import com.abetancourt03.angelosend.item.EnderiteUpgradeSmithingTemplateItem;
 import com.abetancourt03.angelosend.item.ModItemGroups;
 import com.abetancourt03.angelosend.item.ModItems;
 import com.abetancourt03.angelosend.util.ModLootTableModifiers;
@@ -20,13 +19,12 @@ public class AngelosEnd implements ModInitializer {
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
 		ModItemGroups.registerItemGroups();
-		EnderiteUpgradeSmithingTemplateItem.register();
 		ModWorldGeneration.generateModWorldGen();
 		ModLootTableModifiers.modifyLootTables();
 	}
 
 	public static Identifier id(String path) {
-		return new Identifier(MOD_ID, path);
+		return Identifier.of(MOD_ID, path);
 	}
 
 	public static String createTranslationKey(String type, String path) {

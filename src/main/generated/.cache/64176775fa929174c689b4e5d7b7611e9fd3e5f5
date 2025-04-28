@@ -1,3 +1,3 @@
-// 1.20.1	2024-09-04T10:09:04.8913967	Angelo's End/Tags for minecraft:block
-a5391ac9813b117e60ddf7cfd8e11801cf45037a data\minecraft\tags\blocks\needs_diamond_tool.json
-a5391ac9813b117e60ddf7cfd8e11801cf45037a data\minecraft\tags\blocks\mineable\pickaxe.json
+// 1.21	2025-04-28T19:24:33.8487479	Angelo's End/Tags for minecraft:block
+cf399f21016ac111122e1404985abc7f54cda660 data\minecraft\tags\block\needs_diamond_tool.json
+cf399f21016ac111122e1404985abc7f54cda660 data\minecraft\tags\block\mineable\pickaxe.json

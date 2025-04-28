@@ -19,7 +19,7 @@ public class ModItemGroups {
                         entries.add(ModItems.ENDERITE_INGOT);
                         entries.add(ModItems.RAW_ENDERITE);
                         entries.add(ModItems.ENDERITE_SCRAP);
-                        entries.add(EnderiteUpgradeSmithingTemplateItem.ENDERITE_UPGRADE_SMITHING_TEMPLATE);
+                        entries.add(ModItems.ENDERITE_UPGRADE_SMITHING_TEMPLATE);
                     }).build());
 
     public static final ItemGroup ENDERITE_BLOCKS_ITEMS_GROUP = Registry.register(Registries.ITEM_GROUP,

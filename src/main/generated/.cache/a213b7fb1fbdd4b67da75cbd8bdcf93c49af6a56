@@ -1,7 +1,7 @@
-// 1.20.1	2024-09-04T10:09:04.8943932	Angelo's End/Tags for minecraft:item
-23fece7449772c61314077f5d38dee4ee17d4b3b data\minecraft\tags\items\trimmable_armor.json
-98aed3f2b80cfd6701ed88e59e1366a9e42a4e48 data\minecraft\tags\items\hoes.json
-447edc420495bab17fbc98080b4733f5856e0bd1 data\minecraft\tags\items\pickaxes.json
-269365da36b55693aca4042b5a45c6e4c3e2b5df data\minecraft\tags\items\swords.json
-a32fe48f7130c8e9f7c62024985fbb222280467b data\minecraft\tags\items\axes.json
-4c5f914c9ea307c46ed752a54e00c31bba7d56a7 data\minecraft\tags\items\shovels.json
+// 1.21	2025-04-28T19:24:33.8527514	Angelo's End/Tags for minecraft:item
+dedf4f078f07a270a8d469e94ffe6dc470a9a71b data\minecraft\tags\item\swords.json
+fb05f10408a1f76878676d0f0c43b4628e4f039e data\minecraft\tags\item\axes.json
+742dedd119c7f4295fe6c036f5b76286b7d4c694 data\minecraft\tags\item\shovels.json
+5a9496bdb874aa81b84bac5cdd68404b19bf44ba data\minecraft\tags\item\pickaxes.json
+2a7a396b9d721cb9d364ff7fd628c21651e17588 data\minecraft\tags\item\hoes.json
+3944c1b58cb53b6a64a775545cc9c77bad9a0995 data\minecraft\tags\item\trimmable_armor.json
