@@ -1,5 +1,6 @@
-![Banner](https://cdn.modrinth.com/data/cached_images/b46bf1ccc47c641af2ffb773b92a54beb04d59f5.png)
----
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f26fa547-4a15-45bf-9a32-d0e98a2fc49c" />
+</div>
 
 <div align="center">
   <h4>Angelo's End is a mod that adds a new ore in The End!</h4>
