@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f26fa547-4a15-45bf-9a32-d0e98a2fc49c" />
+  <img src="https://github.com/user-attachments/assets/f0d3d950-2f46-4870-b4b6-7bd6ed4ea33d" />
 </div>
+
+<h2> </h2>
 
 <div align="center">
   <h4>Angelo's End is a mod that adds a new ore in The End!</h4>
