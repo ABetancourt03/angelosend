@@ -3,8 +3,6 @@ package com.abetancourt03.angelosend.item;
 import com.abetancourt03.angelosend.AngelosEnd;
 import net.minecraft.item.Item;
 import net.minecraft.item.SmithingTemplateItem;
-import net.minecraft.registry.Registries;
-import net.minecraft.registry.Registry;
 import net.minecraft.text.Text;
 import net.minecraft.util.Formatting;
 import net.minecraft.util.Identifier;

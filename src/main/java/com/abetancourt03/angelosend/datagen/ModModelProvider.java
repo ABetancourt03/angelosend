@@ -1,7 +1,6 @@
 package com.abetancourt03.angelosend.datagen;
 
 import com.abetancourt03.angelosend.block.ModBlocks;
-import com.abetancourt03.angelosend.item.EnderiteUpgradeSmithingTemplateItem;
 import com.abetancourt03.angelosend.item.ModItems;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricModelProvider;
